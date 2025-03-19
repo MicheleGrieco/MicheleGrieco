@@ -1,26 +1,26 @@
 # 💫 About Me  
 
-👋 Hey there! I'm a **Computer Science undergraduate student** at **Università degli Studi di Bari Aldo Moro**, passionate about technology, coding, and the endless possibilities that **Machine Learning** brings to the world. Currently, I'm working on an **ML project for my college**, exploring different algorithms, data processing techniques, and model optimization strategies.  
+Hey there! I'm a **Computer Science undergraduate student** at **Università degli Studi di Bari Aldo Moro**, passionate about technology, coding, and the endless possibilities that **Machine Learning** brings to the world. Currently, I'm working on an **ML project for my college**, exploring different algorithms, data processing techniques, and model optimization strategies.  
 
 ## 🌱 What I'm Learning  
-I'm on a journey to **master Python** 🐍 and its powerful libraries, including **NumPy, Pandas, TensorFlow, and Scikit-learn**, to build and train robust models. I'm also enhancing my **data visualization** skills with **Matplotlib and Seaborn**, ensuring my insights are both accurate and visually compelling.  
+I'm on a journey to **master Python** and its powerful libraries, including **NumPy, Pandas, TensorFlow, and Scikit-learn**, to build and train robust models. I'm also enhancing my **data visualization** skills with **Matplotlib and Seaborn**, ensuring my insights are both accurate and visually compelling.  
 
 ## 🔭 What I'm Working On  
 Right now, my primary focus is on my **Machine Learning college project**, where I’m experimenting with diverse datasets and refining models for improved accuracy. My key areas of interest include:  
-- **Supervised & Unsupervised Learning** 🧠  
-- **Deep Learning & Neural Networks** 🤖  
-- **Data Cleaning & Preprocessing** 🛠️  
-- **Building AI-powered applications** 🚀  
+- **Supervised & Unsupervised Learning**  
+- **Deep Learning & Neural Networks**  
+- **Data Cleaning & Preprocessing**  
+- **Building AI-powered applications**  
 
 ## 💡 Future Goals  
 I'm always eager to expand my knowledge and contribute to innovative projects. In the near future, I’d love to:  
-- Work on **real-world AI applications** 🌍  
-- Dive deeper into **Natural Language Processing (NLP)** and **Computer Vision** 🖼️  
-- Contribute to **open-source ML projects** 🔥  
-- Gain hands-on experience with **cloud computing and MLOps** ☁️  
+- Work on **real-world AI applications**  
+- Dive deeper into **Natural Language Processing (NLP)** and **Computer Vision**  
+- Contribute to **open-source ML projects**
+- Gain hands-on experience with **cloud computing and MLOps**  
 
 ## 📫 Let’s Connect!  
-I'm always up for discussions about **AI, Python, and tech innovations**! Whether it's collaborating on projects, exchanging ideas, or just geeking out over ML advancements, feel free to connect with me here on GitHub or on **LinkedIn**. 🚀  
+I'm always up for discussions about **AI, Python, and tech innovations**! Whether it's collaborating on projects, exchanging ideas, or just geeking out over ML advancements, feel free to connect with me here on GitHub or on **LinkedIn**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MicheleGrieco92) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/MicheleGrieco) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_michelegrieco_)

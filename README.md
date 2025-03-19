@@ -1,7 +1,3 @@
-Here's your updated GitHub bio with your university details included:  
-
----
-
 # 💫 About Me  
 
 👋 Hey there! I'm a **Computer Science undergraduate student** at **Università degli Studi di Bari Aldo Moro**, passionate about technology, coding, and the endless possibilities that **Machine Learning** brings to the world. Currently, I'm working on an **ML project for my college**, exploring different algorithms, data processing techniques, and model optimization strategies.  

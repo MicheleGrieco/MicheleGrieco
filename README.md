@@ -1,23 +1,24 @@
 # 💫 About Me  
 
-Hey there! I'm a **Computer Science graduate** at **Università degli Studi di Bari Aldo Moro**, passionate about technology, coding, and the endless possibilities that **Machine Learning** brings to the world. Currently, I'm working on an **ML project for my college**, exploring different algorithms, data processing techniques, and model optimization strategies.  
+Hey there! I'm a **Computer Science graduate** from **Università degli Studi di Bari Aldo Moro**, passionate about technology, coding, and the endless possibilities that **Machine Learning** and **Artificial Intelligence** bring to the world.  
 
 ## 🌱 What I'm Learning  
-I'm on a journey to **master Python** and its powerful libraries, including **NumPy, Pandas, TensorFlow, and Scikit-learn**, to build and train robust models. I'm also enhancing my **data visualization** skills with **Matplotlib and Seaborn**, ensuring my insights are both accurate and visually compelling.  
+I'm currently diving into the fascinating fields of **cybersecurity** and **cryptography**, exploring how to protect digital systems and secure data in an increasingly connected world. Alongside that, I'm continuing to strengthen my skills in **Python** and its powerful libraries like **NumPy, Pandas, TensorFlow, and Scikit-learn**, building a solid foundation for AI development.
 
 ## 🔭 What I'm Working On  
-Right now, my primary focus is on my **Machine Learning college project**, where I’m experimenting with diverse datasets and refining models for improved accuracy. My key areas of interest include:  
+I'm exploring personal projects and hands-on labs that blend AI concepts with security principles. My key areas of interest include:  
 - **Supervised & Unsupervised Learning**  
 - **Deep Learning & Neural Networks**  
 - **Data Cleaning & Preprocessing**  
-- **Building AI-powered applications**  
+- **Cybersecurity fundamentals and cryptographic algorithms**  
+- **Building AI-powered and security-aware applications**  
 
 ## 💡 Future Goals  
 I'm always eager to expand my knowledge and contribute to innovative projects. In the near future, I’d love to:  
-- Work on **real-world AI applications**  
+- Work on **real-world AI and cybersecurity applications**  
 - Dive deeper into **Natural Language Processing (NLP)** and **Computer Vision**  
-- Contribute to **open-source ML projects**
-- Gain hands-on experience with **cloud computing and MLOps**  
+- Contribute to **open-source AI and security projects**  
+- Gain hands-on experience with **cloud computing, MLOps**, and **secure system design** 
 
 ## 📫 Let’s Connect!  
 I'm always up for discussions about **AI, Python, and tech innovations**! Whether it's collaborating on projects, exchanging ideas, or just geeking out over ML advancements, feel free to connect with me here on GitHub or on **LinkedIn**.

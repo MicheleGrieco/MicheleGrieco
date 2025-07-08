@@ -21,7 +21,7 @@ I'm always eager to expand my knowledge and contribute to innovative projects. I
 - Gain hands-on experience with **cloud computing, MLOps**, and **secure system design** 
 
 ## 📫 Let’s Connect!  
-I'm always up for discussions about **AI, Python, and tech innovations**! Whether it's collaborating on projects, exchanging ideas, or just geeking out over ML advancements, feel free to connect with me here on GitHub or on **LinkedIn**.
+I'm always up for discussions about **AI, Python, and tech innovations**! Whether it's collaborating on projects, exchanging ideas, or just geeking out over ML advancements, feel free to connect with me here on GitHub or on <a href="https://www.linkedin.com/in/michelegrieco92/" target="_blank">**LinkedIn**</a>.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MicheleGrieco92) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/MicheleGrieco) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_michelegrieco_)

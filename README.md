@@ -27,5 +27,5 @@ I'm always up for discussions about **AI, Python, and tech innovations**! Whethe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MicheleGrieco92) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/MicheleGrieco) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_michelegrieco_)
 
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGrieco&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGrieco&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

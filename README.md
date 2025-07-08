@@ -1,26 +1,21 @@
-# 💫 About Me  
+# 💫 About Me
 
-Hey there! I'm a **Computer Science graduate** from **Università degli Studi di Bari Aldo Moro**, passionate about technology, coding, and the endless possibilities that **Machine Learning** and **Artificial Intelligence** bring to the world.  
+Hi there! I'm a **Computer Science graduate** from **Università degli Studi di Bari Aldo Moro**, passionate about **technology**, **coding**, and the world-changing potential of **Machine Learning** and **Artificial Intelligence**.
 
-## 🌱 What I'm Learning  
-I'm currently diving into the fascinating fields of **cybersecurity** and **cryptography**, exploring how to protect digital systems and secure data in an increasingly connected world. Alongside that, I'm continuing to strengthen my skills in **Python** and its powerful libraries like **NumPy, Pandas, TensorFlow, and Scikit-learn**, building a solid foundation for AI development.
+## 🌱 Currently Learning
 
-## 🔭 What I'm Working On  
-I'm exploring personal projects and hands-on labs that blend AI concepts with security principles. My key areas of interest include:  
-- **Supervised & Unsupervised Learning**  
-- **Deep Learning & Neural Networks**  
-- **Data Cleaning & Preprocessing**  
-- **Cybersecurity fundamentals and cryptographic algorithms**  
-- **Building AI-powered and security-aware applications**  
+I'm exploring **cybersecurity** and **cryptography**, sharpening my Python skills with libraries like **NumPy**, **Pandas**, **TensorFlow**, and **Scikit-learn**. I'm also learning the **Flask framework** to build web-based applications—and planning to dive into **Django** next.
 
-## 💡 Future Goals  
-I'm always eager to expand my knowledge and contribute to innovative projects. In the near future, I’d love to:  
-- Work on **real-world AI and cybersecurity applications**  
-- Dive deeper into **Natural Language Processing (NLP)** and **Computer Vision**  
-- Contribute to **open-source AI and security projects**  
-- Gain hands-on experience with **cloud computing, MLOps**, and **secure system design** 
+## 💡 What I'm Working On
 
-## 📫 Let’s Connect!  
-I'm always up for discussions about **AI, Python, and tech innovations**! Whether it's collaborating on projects, exchanging ideas, or just geeking out over ML advancements, feel free to connect with me here on GitHub or on [LinkedIn](https://www.linkedin.com/in/michelegrieco92/).
+I’m focused on personal projects that combine AI with security, touching areas like data preprocessing, neural networks, and cryptographic algorithms.
+
+## 🚀 Future Goals
+
+I aim to deepen my expertise in **NLP**, **Computer Vision**, and **cloud-based AI systems**, while contributing to **open-source** and exploring **secure, AI-powered applications**.
+
+## 📫 Let’s Connect
+
+Always happy to connect over tech, Python, or AI! Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/michelegrieco92/).
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGrieco&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

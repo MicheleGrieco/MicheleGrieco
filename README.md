@@ -4,15 +4,15 @@ Hi there! I'm a **Computer Science graduate** from **Università degli Studi di 
 
 ## 🌱 Currently Learning
 
-I'm exploring **cybersecurity** and **cryptography**, sharpening my Python skills with libraries like **NumPy**, **Pandas**, **TensorFlow**, and **Scikit-learn**. I'm also learning the **Flask framework** to build web-based applications—and planning to dive into **Django** next.
+I'm diving into **cybersecurity** and **cryptography**, while refining my Python skills with libraries like **NumPy**, **Pandas**, **TensorFlow**, and **Scikit-learn**. I'm also building web-based applications using the **Flask framework**, and planning to explore **Django** next. Alongside AI, I’m expanding my backend development skills with a focus on **microservices**, working with **Flask** (Python) and **Spring Boot** (Java).
 
 ## 💡 What I'm Working On
 
-I’m focused on personal projects that combine AI with security, touching areas like data preprocessing, neural networks, and cryptographic algorithms.
+I’m currently developing personal projects that combine **AI** and **security**, involving data preprocessing, neural networks, and cryptographic algorithms. I'm also designing and experimenting with **microservices architectures** to build scalable and modular applications.
 
 ## 🚀 Future Goals
 
-I aim to deepen my expertise in **NLP**, **Computer Vision**, and **cloud-based AI systems**, while contributing to **open-source** and exploring **secure, AI-powered applications**.
+My goals include deepening my expertise in **NLP**, **Computer Vision**, and **cloud-based AI systems**, while contributing to **open-source** projects. I'm also keen to explore the intersection of **AI** and **secure, distributed systems**, especially through **AI-powered microservices**.
 
 ## 📫 Let’s Connect
 

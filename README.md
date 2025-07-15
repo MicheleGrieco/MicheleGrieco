@@ -8,14 +8,14 @@ I'm diving into **cybersecurity** and **cryptography**, while refining my Python
 
 ## 💡 What I'm Working On
 
-I’m currently developing personal projects that combine **AI** and **security**, involving data preprocessing, neural networks, and cryptographic algorithms. I'm also designing and experimenting with **microservices architectures** to build scalable and modular applications.
+I'm currently working on scalable and modular applications by designing and experimenting with microservices architectures. I'm also developing personal projects focused on security and AI, involving cryptographic algorithms, neural networks, and data preprocessing.
 
 ## 🚀 Future Goals
 
-My goals include deepening my expertise in **NLP**, **Computer Vision**, and **cloud-based AI systems**, while contributing to **open-source** projects. I'm also keen to explore the intersection of **AI** and **secure, distributed systems**, especially through **AI-powered microservices**.
+My goals include deepening my expertise in **NLP**, **Computer Vision**, and **cloud-based AI systems**, while contributing to **open-source** projects. I'm also keen to explore the intersection of **AI** and **secure, distributed systems**, especially through **microservices**.
 
 ## 📫 Let’s Connect
 
-Always happy to connect over tech, Python, or AI! Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/michelegrieco92/).
+Always happy to connect over tech, AI, Python or Java! Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/michelegrieco92/).
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGrieco&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

@@ -1,21 +1,33 @@
 # 💫 About Me
 
-Hi there! I'm a **Computer Science graduate** from **Università degli Studi di Bari Aldo Moro**, passionate about **technology**, **coding**, and the world-changing potential of **Machine Learning** and **Artificial Intelligence**.
+Hi there! I'm a **Computer Science graduate** from **Università degli Studi di Bari Aldo Moro**, currently working as a **Software Engineer** at **Tinexta Defence** in the **Space business unit**. I'm passionate about **technology**, **coding**, and the transformative potential of **satellite data processing** and **distributed systems**.
 
-## 🌱 Currently Learning
+## 🛰️ Current Role
 
-I'm diving into **cybersecurity** and **cryptography**, while refining my Python skills with libraries like **NumPy**, **Pandas**, **TensorFlow**, and **Scikit-learn**. I'm also building web-based applications using the **Flask framework**, and planning to explore **Django** next. Alongside AI, I’m expanding my backend development skills with a focus on **microservices**, working with **Flask** (Python) and **Spring Boot** (Java).
+At Tinexta Defence, I'm focused on **satellite data processing systems**, working with missions like **IRIDE** and **EAGLET2**. My work involves handling **CCSDS format telemetry data**, implementing **Reed-Solomon error correction**, and developing processing pipelines that convert raw satellite telemetry into actionable Level-0 data products.
 
-## 💡 What I'm Working On
+## 🌱 Technical Expertise
 
-I'm currently working on scalable and modular applications by designing and experimenting with microservices architectures. I'm also developing personal projects focused on security and AI, involving cryptographic algorithms, neural networks, and data preprocessing.
+I work with a focused tech stack for space and distributed systems:
+- **Languages**: Python, C++
+- **Data Processing**: NumPy, binary data manipulation, satellite telemetry processing
+- **Backend & Architecture**: Microservices, RESTful APIs
+- **Databases**: MongoDB
+- **DevOps & Tools**: Docker, Git, Linux systems
+- **Frameworks**: Satellite data processing frameworks (CCSDS, Frame Processing Framework)
+
+I'm experienced in designing scalable, containerized applications and working with complex data pipelines in Linux environments.
+
+## 💡 What Drives Me
+
+I'm fascinated by the intersection of **space technology**, **microservices architecture**, and **high-performance data processing**. Whether it's processing satellite telemetry in C++, designing Python-based microservices, or orchestrating containerized applications with Docker, I'm always eager to tackle complex technical challenges in the aerospace domain.
 
 ## 🚀 Future Goals
 
-My goals include deepening my expertise in **NLP**, **Computer Vision**, and **cloud-based AI systems**, while contributing to **open-source** projects. I'm also keen to explore the intersection of **AI** and **secure, distributed systems**, especially through **microservices**.
+My goals include deepening my expertise in **satellite data processing**, **distributed systems**, and **cloud-native architectures**, while contributing to **open-source** projects. I'm particularly interested in advancing **high-performance computing** for **aerospace applications** and scalable **data processing pipelines**.
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
-Always happy to connect over tech, AI, Python or Java! Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/michelegrieco92/).
+Always happy to connect over space systems, microservices, Python, or C++! Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/michelegrieco92/).
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MicheleGrieco&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

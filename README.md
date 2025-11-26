@@ -4,7 +4,7 @@ Hi there! I'm a **Computer Science graduate** from **Università degli Studi di 
 
 ## 🛰️ Current Role
 
-At Tinexta Defence, I'm focused on **satellite data processing systems**, working with missions like **IRIDE** and **EAGLET2**. My work involves handling **CCSDS format telemetry data**, implementing **Reed-Solomon error correction**, and developing processing pipelines that convert raw satellite telemetry into actionable Level-0 data products.
+At Tinexta Defence, I'm focused on **satellite data processing systems**, working with missions like **IRIDE** and **EAGLET2**. My work involves handling **CCSDS format telemetry data** and developing processing pipelines that convert raw satellite telemetry into actionable data products.
 
 ## 🌱 Technical Expertise
 

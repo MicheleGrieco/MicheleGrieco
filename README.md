@@ -13,8 +13,6 @@ I work with a focused tech stack for space and distributed systems:
 - **DevOps & Tools**: Docker, Git, Linux systems
 - **Frameworks**: Satellite data processing frameworks (CCSDS, Frame Processing Framework)
 
-I'm experienced in designing scalable, containerized applications and working with complex data pipelines in Linux environments.
-
 ## Let's Connect
 Always happy to connect over space systems, microservices, Python, or C++! Feel free to reach out here or on [LinkedIn](https://www.linkedin.com/in/michelegrieco92/).
 
